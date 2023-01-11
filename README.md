@@ -1,3 +1,3 @@
 - ✨ This repository records my Devops knowledge summary and hands on projects to enhance the devops skills
-- 💕 Thanks to opensource[Devops tools, Devops certificates and Devops projects]
+- 💕 Thanks to all opensource materials[Devops tools, Devops certificates and Devops projects]
 - 👀 Hope my records can help those who want to switch to devops engineer path or devops engineers who want to prepare for the interviews

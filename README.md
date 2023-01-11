@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Amber Liu. A Devops Engineer in Dublin Ireland
 - ✨ Github records my Devops knowledge summary and hands on projects to enhance the devops skills
-- 💕 Thanks to opensource, the Devops tools, Devops certificates and Devops projects including some vaulable public resources as well.
+- 💕 Thanks to opensource[Devops tools, Devops certificates and Devops projects]
 - 👀 Hope my records can help those who want to switch to devops engineer path or devops engineers who want to prepare for the interviews
